@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Atents\source\repos\20240513-0900\20240513-0900-Operator\main.cpp(59,30): error C2535: 'void SonData::SetGender(bool)': 멤버 함수를 이미 정의했거나 선언했습니다.
+C:\Users\Atents\source\repos\20240513-0900\20240513-0900-Operator\main.cpp(53): message : 'SonData::SetGender' 선언을 참조하십시오.
+C:\Users\Atents\source\repos\20240513-0900\20240513-0900-Operator\main.cpp(62,19): error C2535: 'bool SonData::GetGender(void)': 멤버 함수를 이미 정의했거나 선언했습니다.
+C:\Users\Atents\source\repos\20240513-0900\20240513-0900-Operator\main.cpp(56): message : 'SonData::GetGender' 선언을 참조하십시오.
+C:\Users\Atents\source\repos\20240513-0900\20240513-0900-Operator\main.cpp(65,30): error C2535: 'void SonData::SetGender(bool)': 멤버 함수를 이미 정의했거나 선언했습니다.
+C:\Users\Atents\source\repos\20240513-0900\20240513-0900-Operator\main.cpp(53): message : 'SonData::SetGender' 선언을 참조하십시오.
+C:\Users\Atents\source\repos\20240513-0900\20240513-0900-Operator\main.cpp(68,19): error C2535: 'bool SonData::GetGender(void)': 멤버 함수를 이미 정의했거나 선언했습니다.
+C:\Users\Atents\source\repos\20240513-0900\20240513-0900-Operator\main.cpp(56): message : 'SonData::GetGender' 선언을 참조하십시오.
